@@ -1,0 +1,14 @@
+E:\PeopeCert Bootcamp\My files\RouaMat\RouaMatHomework26_11_2022\bin\Debug\RouaMatHomework26_11_2022.exe.config
+E:\PeopeCert Bootcamp\My files\RouaMat\RouaMatHomework26_11_2022\bin\Debug\RouaMatHomework26_11_2022.exe
+E:\PeopeCert Bootcamp\My files\RouaMat\RouaMatHomework26_11_2022\bin\Debug\RouaMatHomework26_11_2022.pdb
+E:\PeopeCert Bootcamp\My files\RouaMat\RouaMatHomework26_11_2022\obj\Debug\RouaMatHomework26_11_2022.csproj.AssemblyReference.cache
+E:\PeopeCert Bootcamp\My files\RouaMat\RouaMatHomework26_11_2022\obj\Debug\RouaMatHomework26_11_2022.csproj.SuggestedBindingRedirects.cache
+E:\PeopeCert Bootcamp\My files\RouaMat\RouaMatHomework26_11_2022\obj\Debug\RouaMatHomework26_11_2022.csproj.CoreCompileInputs.cache
+E:\PeopeCert Bootcamp\My files\RouaMat\RouaMatHomework26_11_2022\obj\Debug\RouaMatHomework26_11_2022.exe
+E:\PeopeCert Bootcamp\My files\RouaMat\RouaMatHomework26_11_2022\obj\Debug\RouaMatHomework26_11_2022.pdb
+E:\PeopeCert Bootcamp\My files\RouaMat\RouaMatHomework26_11_2022\bin\Debug\Fare.dll
+E:\PeopeCert Bootcamp\My files\RouaMat\RouaMatHomework26_11_2022\bin\Debug\RandomDataGenerator.dll
+E:\PeopeCert Bootcamp\My files\RouaMat\RouaMatHomework26_11_2022\bin\Debug\Stef.Validation.dll
+E:\PeopeCert Bootcamp\My files\RouaMat\RouaMatHomework26_11_2022\bin\Debug\Fare.xml
+E:\PeopeCert Bootcamp\My files\RouaMat\RouaMatHomework26_11_2022\bin\Debug\RandomDataGenerator.pdb
+E:\PeopeCert Bootcamp\My files\RouaMat\RouaMatHomework26_11_2022\obj\Debug\RouaMatHomework26_11_2022.csproj.CopyComplete
